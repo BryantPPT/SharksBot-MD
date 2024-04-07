@@ -40,24 +40,13 @@
 
 | TEMA | DESCRIPCIÓN | ATAJO |
 |------|-------------|-------|
-| **TERMUX** | ***INSTALACIÓN AUTOMÁTICA*** |[ver](https://github.com/BryantPPT/SharksBot-MD/tree/master?tab=readme-ov-file#-opci%C3%B3n-1-instalaci%C3%B3n-autom%C3%A1tica-) |
 | **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver](https://github.com/BryantPPT/SharksBot-MD/#-opción-2-instalación-manual-por-termux---github) |
 | **TERMUX UPDATE** | ***COMANDOS PARA ACTUALIZAR SHARKSBOT*** |[ver](https://github.com/BryantPPT/SharksBot-MD/#-actualizar-sharksbot) |
 | **WINDOWS** | ***INSTALACIÓN POR WINDOWS*** |[ver](https://github.com/BryantPPT/SharksBot-MD/#-para-usuarios-de-windowsvpsrdp) |
 | **SOBRE SHARKSBOT** | ***POLÍTICA DE USO*** |[ver](https://github.com/BryantPPT/SharksBot-MD/blob/master/terms.md) |
 | **DESARROLLADORES** | ***PARTICIPATES DEL PROYECTO*** |[ver](https://github.com/BryantPPT/SharksBot-MD/#-creador) |
 -----
-### 🦈 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA 🫰
-[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/PESW8LXXlOI?feature=share)
-> **Nota** Comandos para instalar de forma automática en Termux  
-```bash
-termux-setup-storage
-```
-```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/BryantPPT/SharksBot-MD/master/sharks.sh | bash
-```
------
-### 🦈 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
+### 🦈 INSTALACIÓN MANUAL POR TERMUX - GITHUB 
 ```bash
 termux-setup-storage
 ```
