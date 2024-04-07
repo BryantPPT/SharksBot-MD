@@ -13,7 +13,7 @@ echo -e "\e[35m
 COMMENT
 
 echo -e "\033[01;93mPreparando instalación...\n\033[0m"
-mp3_array=("https://qu.ax/vkZR.mp5.." "https://qu.ax/FYQy.mp5.." "https://qu.ax/rSUn.mp5.." "https://qu.ax/CCzM.mp5.." "https://qu.ax/nuFz.mp5.." "https://qu.ax/YKe.mp5..")
+mp3_array=("https://qu.ax/jL.mp3" "https://qu.ax/jL.mp3" "https://qu.ax/jL.mp3" "https://qu.ax/jL.mp3" "https://qu.ax/jL.mp3" "https://qu.ax/jL.mp3")
 random_mp3=${mp3_array[$RANDOM % ${#mp3_array[@]}]}
 echo -e ""
 while true; do
